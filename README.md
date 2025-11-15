@@ -33,15 +33,6 @@ React, HTML, CSS, JavaScript, Git, Frontend Development
 
 ---
 
-## 📝 I regularly write articles on
-➡️ *(Add blog link here — or remove if you don't write)*
-
----
-
-## 📄 Know about my experiences
-➡️ **My Resume:** *(Add CV link here)*
-
----
 
 ## ⚡ Fun fact
 I think I am funny 😄
