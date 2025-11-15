@@ -29,7 +29,7 @@ React, HTML, CSS, JavaScript, Git, Frontend Development
 ---
 
 ## 👨‍💻 All of my projects are available at
-➡️ **Portfolio Website:** *(Add your portfolio link here)*
+➡️ **Portfolio Website:** *(https://melani-my-portfolio.netlify.app/)*
 
 ---
 
